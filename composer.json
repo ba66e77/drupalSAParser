@@ -1,0 +1,12 @@
+{
+    "name": "barrett/drupal-sa-parser",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Barrett Smith",
+            "email": "barrett@datasmith.net"
+        }
+    ]
+}
